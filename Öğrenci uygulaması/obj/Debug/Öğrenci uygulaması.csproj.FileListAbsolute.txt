@@ -1,0 +1,8 @@
+C:\Users\ozans\source\repos\Hello world ve yorum satırı\Öğrenci uygulaması\bin\Debug\Öğrenci uygulaması.exe.config
+C:\Users\ozans\source\repos\Hello world ve yorum satırı\Öğrenci uygulaması\bin\Debug\Öğrenci uygulaması.exe
+C:\Users\ozans\source\repos\Hello world ve yorum satırı\Öğrenci uygulaması\bin\Debug\Öğrenci uygulaması.pdb
+C:\Users\ozans\source\repos\Hello world ve yorum satırı\Öğrenci uygulaması\obj\Debug\Öğrenci uygulaması.csproj.AssemblyReference.cache
+C:\Users\ozans\source\repos\Hello world ve yorum satırı\Öğrenci uygulaması\obj\Debug\Öğrenci uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozans\source\repos\Hello world ve yorum satırı\Öğrenci uygulaması\obj\Debug\Öğrenci uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ozans\source\repos\Hello world ve yorum satırı\Öğrenci uygulaması\obj\Debug\Öğrenci uygulaması.exe
+C:\Users\ozans\source\repos\Hello world ve yorum satırı\Öğrenci uygulaması\obj\Debug\Öğrenci uygulaması.pdb
